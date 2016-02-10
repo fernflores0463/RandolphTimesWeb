@@ -1,4 +1,4 @@
-# THe Randolph Times
+# The Randolph Times
 Hey all!
 This is the website that used to hold all the articles from the Randolph Times, the official newspaper for A. Philip Randolph Campus
 High School in Manhattan, New York. The theme we used here is a theme that was created for another newspaper, the Binghamtom University Pipedream
