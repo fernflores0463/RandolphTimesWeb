@@ -6,4 +6,4 @@ The theme was created by Daniel O' Connor, and it was modified by me to fit my f
 
 If you need any help setting up the theme please contact me at fernflore20@gmail.com
 
-ReadMe cupdated on February 9, 2016
+ReadMe updated on February 9, 2016
